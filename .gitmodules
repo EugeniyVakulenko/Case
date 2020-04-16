@@ -1,0 +1,3 @@
+[submodule "CaseApp/Client"]
+	path = CaseApp/Client
+	url = https://github.com/EugeniyVakulenko/Client
