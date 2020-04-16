@@ -1,0 +1,6 @@
+[submodule "CaseApp/CaseApp/client"]
+	path = CaseApp/CaseApp/client
+	url = C:/Users/Eugene/source/repos/CaseApp
+[submodule "CaseApp/client"]
+	path = CaseApp/client
+	url = C:/Users/Eugene/source/repos/CaseApp
